@@ -1,7 +1,7 @@
 # Jonathan Do's Portfolio
 Hello! My name is Jonathan Do, I am a computer science major, attending CSUF, and I am expected to graduate in 2027. My github profile link is https://github.com/23jdo5.
 
-##Favorite CPSC120 Labs. 
+## Favorite CPSC120 Labs. 
 
 Lab 4, Part 1:
 
